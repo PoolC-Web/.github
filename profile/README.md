@@ -30,6 +30,12 @@ PoolC-Web은 연세대학교 공과대학 프로그래밍 학술동아리 PoolC�
 - 프로필 README와 관련 파일의 변경은 현재 담당자의 검토 후 반영합니다.
 - 이 README가 오래되지 않도록 담당자, 기여자, 운영 규칙 및 관련 링크를 변경사항에 맞춰 항상 관리합니다.
 
+## Architecture
+
+<div align="center">
+  <img src="./assets/poolc-web-architecture.png" width="100%" alt="PoolC Web Architecture" />
+</div>
+
 ## Current Maintainer
 
 <div align="center">
