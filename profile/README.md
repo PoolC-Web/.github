@@ -12,16 +12,6 @@
 
 </div>
 
-## Repositories
-
-<div align="center">
-
-<a href="https://github.com/PoolC-Web/PoolC-FE"><img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=react&logoColor=white" alt="PoolC Frontend" /></a>
-<a href="https://github.com/PoolC-Web/PoolC-BE"><img src="https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="PoolC Backend" /></a>
-<a href="https://github.com/PoolC-Web/PKS"><img src="https://img.shields.io/badge/Infrastructure-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="PoolC Infrastructure" /></a>
-
-</div>
-
 ## Current Maintainers
 
 <div align="center">
