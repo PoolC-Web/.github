@@ -3,10 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/poolc.dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/poolc.vertical.svg" />
-  <img src="./assets/poolc.vertical.svg" width="360" alt="PoolC" />
+  <img src="./assets/poolc.vertical.svg" width="100%" alt="PoolC" />
 </picture>
 
 <br /><br />
+
+연세대학교 공과동아리 PoolC 홈페이지/인프라 저장소
 
 </div>
 
