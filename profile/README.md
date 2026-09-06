@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/poolc.vertical.svg" width="360" alt="PoolC" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/poolc.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/poolc.vertical.svg" />
+  <img src="./assets/poolc.vertical.svg" width="360" alt="PoolC" />
+</picture>
 
 <br /><br />
 
