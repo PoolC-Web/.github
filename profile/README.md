@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="./assets/poolc.vertical.svg" width="180" alt="PoolC" />
+<img src="./assets/poolc.vertical.svg" width="360" alt="PoolC" />
 
 <br /><br />
-
-<h3>PoolC 구성원을 위한 웹 서비스와 내부 인프라를 개발하고 운영합니다.</h3>
-
-운영 범위: PoolC 홈페이지 · 백엔드 API · 내부 Kubernetes 인프라
-
-PoolC Web은 담당자가 졸업하거나 교체될 때 다음 담당자에게 서비스를 인수인계하며 지속적으로 운영되는 학생 주도 프로젝트입니다.
-
-[PoolC 홈페이지 바로가기](https://poolc.org)
 
 </div>
 
