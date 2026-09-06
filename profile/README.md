@@ -45,14 +45,14 @@
     <td align="center"><b>FE · BE</b></td>
     <td align="center"><b>FE · BE</b></td>
     <td align="center"><b>FE</b></td>
-    <td align="center"><b>FE · BE</b></td>
+    <td align="center"><b>FE · BE · Infra</b></td>
     <td align="center"><b>FE · BE · Infra</b></td>
   </tr>
   <tr>
     <td align="center">Frontend<br />Backend</td>
     <td align="center">Frontend<br />Backend</td>
     <td align="center">Frontend</td>
-    <td align="center">Frontend<br />Backend</td>
+    <td align="center">Frontend<br />Backend<br />Infrastructure</td>
     <td align="center">Frontend<br />Backend<br />Infrastructure</td>
   </tr>
   <tr>
