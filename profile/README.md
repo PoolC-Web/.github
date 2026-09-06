@@ -42,16 +42,14 @@ PoolC Web은 담당자가 졸업하거나 교체될 때 다음 담당자에게 �
     <td align="center"><b>FE · BE · Infra</b></td>
   </tr>
   <tr>
-    <td align="center">Frontend<br />Backend<br />Infrastructure<br />Handoff</td>
-    <td align="center">Frontend<br />Backend<br />Infrastructure<br />Handoff</td>
+    <td align="center">PoolC-FE<br />PoolC-BE<br />PKS<br />Handoff</td>
+    <td align="center">PoolC-FE<br />PoolC-BE<br />PKS<br />Handoff</td>
   </tr>
 </table>
 
 </div>
 
 ## Contributors & Alumni
-
-PoolC Web의 개발과 운영에 기여한 구성원들입니다.
 
 <div align="center">
 
@@ -78,11 +76,11 @@ PoolC Web의 개발과 운영에 기여한 구성원들입니다.
     <td align="center"><b>BE</b></td>
   </tr>
   <tr>
-    <td align="center">Frontend<br />Backend</td>
-    <td align="center">Frontend<br />Backend</td>
-    <td align="center">Frontend</td>
-    <td align="center">Backend</td>
-    <td align="center">Backend</td>
+    <td align="center">PoolC-FE<br />PoolC-BE</td>
+    <td align="center">PoolC-FE<br />PoolC-BE</td>
+    <td align="center">PoolC-FE</td>
+    <td align="center">PoolC-BE</td>
+    <td align="center">PoolC-BE</td>
   </tr>
   <tr>
     <th align="center"><a href="https://github.com/yoonseokch">yoonseokch</a></th>
@@ -100,9 +98,9 @@ PoolC Web의 개발과 운영에 기여한 구성원들입니다.
     <td align="center"><b>Infra</b></td>
   </tr>
   <tr>
-    <td align="center">Backend</td>
-    <td align="center">Backend</td>
-    <td align="center">Kubernetes<br />GitOps / 배포</td>
+    <td align="center">PoolC-BE</td>
+    <td align="center">PoolC-BE</td>
+    <td align="center">PKS</td>
   </tr>
 </table>
 
