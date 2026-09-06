@@ -34,16 +34,12 @@ PoolC Web은 담당자가 졸업하거나 교체될 때 다음 담당자에게 �
     <th align="center"><a href="https://github.com/jimmy0006">jimmy0006</a></th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/Mayne0213.png?size=140" width="100px" alt="Mayne0213" /></td>
-    <td align="center"><img src="https://github.com/jimmy0006.png?size=140" width="100px" alt="jimmy0006" /></td>
+    <td align="center"><img src="https://github.com/Mayne0213.png?size=180" width="140px" alt="Mayne0213" /></td>
+    <td align="center"><img src="https://github.com/jimmy0006.png?size=180" width="140px" alt="jimmy0006" /></td>
   </tr>
   <tr>
-    <td align="center"><b>FE · BE · Infra</b></td>
-    <td align="center"><b>FE · BE · Infra</b></td>
-  </tr>
-  <tr>
-    <td align="center">PoolC-FE<br />PoolC-BE<br />PKS<br />Handoff</td>
-    <td align="center">PoolC-FE<br />PoolC-BE<br />PKS<br />Handoff</td>
+    <td align="center"><b>FE · BE · Infra · Handoff</b></td>
+    <td align="center"><b>FE · BE · Infra · Handoff</b></td>
   </tr>
 </table>
 
@@ -59,48 +55,36 @@ PoolC Web은 담당자가 졸업하거나 교체될 때 다음 담당자에게 �
     <th align="center"><a href="https://github.com/mingd1023">mingd1023</a></th>
     <th align="center"><a href="https://github.com/Hys-Lee">Hys-Lee</a></th>
     <th align="center"><a href="https://github.com/hcpak">hcpak</a></th>
-    <th align="center"><a href="https://github.com/becooq81">becooq81</a></th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/jinhodotchoi.png?size=140" width="100px" alt="jinhodotchoi" /></td>
-    <td align="center"><img src="https://github.com/mingd1023.png?size=140" width="100px" alt="mingd1023" /></td>
-    <td align="center"><img src="https://github.com/Hys-Lee.png?size=140" width="100px" alt="Hys-Lee" /></td>
-    <td align="center"><img src="https://github.com/hcpak.png?size=140" width="100px" alt="hcpak" /></td>
-    <td align="center"><img src="https://github.com/becooq81.png?size=140" width="100px" alt="becooq81" /></td>
+    <td align="center"><img src="https://github.com/jinhodotchoi.png?size=160" width="120px" alt="jinhodotchoi" /></td>
+    <td align="center"><img src="https://github.com/mingd1023.png?size=160" width="120px" alt="mingd1023" /></td>
+    <td align="center"><img src="https://github.com/Hys-Lee.png?size=160" width="120px" alt="Hys-Lee" /></td>
+    <td align="center"><img src="https://github.com/hcpak.png?size=160" width="120px" alt="hcpak" /></td>
   </tr>
   <tr>
     <td align="center"><b>FE · BE</b></td>
     <td align="center"><b>FE · BE</b></td>
     <td align="center"><b>FE</b></td>
     <td align="center"><b>BE</b></td>
-    <td align="center"><b>BE</b></td>
   </tr>
   <tr>
-    <td align="center">PoolC-FE<br />PoolC-BE</td>
-    <td align="center">PoolC-FE<br />PoolC-BE</td>
-    <td align="center">PoolC-FE</td>
-    <td align="center">PoolC-BE</td>
-    <td align="center">PoolC-BE</td>
-  </tr>
-  <tr>
+    <th align="center"><a href="https://github.com/becooq81">becooq81</a></th>
     <th align="center"><a href="https://github.com/yoonseokch">yoonseokch</a></th>
     <th align="center"><a href="https://github.com/Jjungs7">Jjungs7</a></th>
     <th align="center"><a href="https://github.com/J3m3">J3m3</a></th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/yoonseokch.png?size=140" width="100px" alt="yoonseokch" /></td>
-    <td align="center"><img src="https://github.com/Jjungs7.png?size=140" width="100px" alt="Jjungs7" /></td>
-    <td align="center"><img src="https://github.com/J3m3.png?size=140" width="100px" alt="J3m3" /></td>
+    <td align="center"><img src="https://github.com/becooq81.png?size=160" width="120px" alt="becooq81" /></td>
+    <td align="center"><img src="https://github.com/yoonseokch.png?size=160" width="120px" alt="yoonseokch" /></td>
+    <td align="center"><img src="https://github.com/Jjungs7.png?size=160" width="120px" alt="Jjungs7" /></td>
+    <td align="center"><img src="https://github.com/J3m3.png?size=160" width="120px" alt="J3m3" /></td>
   </tr>
   <tr>
+    <td align="center"><b>BE</b></td>
     <td align="center"><b>BE</b></td>
     <td align="center"><b>BE</b></td>
     <td align="center"><b>Infra</b></td>
-  </tr>
-  <tr>
-    <td align="center">PoolC-BE</td>
-    <td align="center">PoolC-BE</td>
-    <td align="center">PKS</td>
   </tr>
 </table>
 
