@@ -6,15 +6,9 @@
   <img src="./assets/poolc.vertical.svg" width="100%" alt="PoolC" />
 </picture>
 
+PoolC 웹 서비스와 인프라를 개발·운영합니다.
+
 </div>
-
-## About
-
-PoolC-Web은 연세대학교 공과대학 프로그래밍 학술동아리 PoolC의 홈페이지와 내부 인프라를 개발하고 운영하는 조직입니다.
-
-이 조직에는 홈페이지 프론트엔드와 백엔드, Kubernetes 기반 내부 인프라, 그리고 이 조직 프로필을 관리하는 저장소가 포함되어 있습니다.
-
-유지보수나 기능 개선, 인수인계에 관심이 있다면 현재 담당자인 [@Mayne0213](https://github.com/Mayne0213)에게 연락해주세요.
 
 ## Architecture
 
